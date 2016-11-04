@@ -18,4 +18,13 @@ plugins=(git git-extras history mvn web-search ansible)
 
 | Alias                | Command  |
 |----------------------|--------------|
+|a |ansible|
+|ap |ansible-playbook|
+|al |ansible-pull|
+|avc |ansible-vault create|
+|ave |ansible-vault edit|
+|avr |ansible-vault rekey|
+|avenc|ansible-vault encrypt|
+|avdec|ansible-vault decrypt|
+|avv|ansible-vault view|
 
