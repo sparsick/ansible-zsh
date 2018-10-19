@@ -27,4 +27,12 @@ plugins=(git git-extras history mvn web-search ansible)
 |avenc|ansible-vault encrypt|
 |avdec|ansible-vault decrypt|
 |avv|ansible-vault view|
-
+|aga|ansible-galaxy|
+|agad|ansible-galaxy delete|
+|agai|ansible-galaxy install|
+|agaim|ansible-galaxy import|
+|againf|ansible-galaxy info|
+|agal|ansible-galaxy list|
+|agalog|ansible-galaxy login|
+|agar|ansible-galaxy remove|
+|agas|ansible-galaxy search|
